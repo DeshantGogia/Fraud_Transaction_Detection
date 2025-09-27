@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Model and dataset artifacts
+model/*.pkl
+dataset/*.csv
+
+# Environment files
+.env
+.env.*
+
+# Distribution
+*.egg-info/
+
+# Logs
+*.log
