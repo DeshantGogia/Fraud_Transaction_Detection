@@ -8,6 +8,13 @@ Files in this repository
 - `app.py` - Example app (if present) to load the saved model and serve predictions.
 - `dataset/` - Raw dataset (ignored by default via `.gitignore`).
 - `model/` - Saved model artifacts (ignored by default via `.gitignore`).
+- 
+<img width="1058" height="851" alt="Screenshot 2025-09-27 232829" src="https://github.com/user-attachments/assets/e7f69b71-8e37-48f5-8f12-42b60f79913a" />
+
+<img width="1102" height="850" alt="Screenshot 2025-09-27 232628" src="https://github.com/user-attachments/assets/17c3d7f2-3086-4948-99a1-f745a03e161c" />
+
+<img width="1358" height="895" alt="Screenshot 2025-09-27 232704" src="https://github.com/user-attachments/assets/b9c085ec-e7dd-443d-ac4f-c72d5af47f3b" />
+
 
 Requirements
 
