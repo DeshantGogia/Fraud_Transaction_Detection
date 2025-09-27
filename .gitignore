@@ -15,6 +15,7 @@ __pycache__/
 
 # Model and dataset artifacts
 model/*.pkl
+!model/fraud_detection_xgboost_model.pkl
 dataset/*.csv
 
 # Environment files
